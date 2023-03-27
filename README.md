@@ -9,7 +9,7 @@
 </p>
                                                   
 
-                                                   🤖 Futures
+                                                     🤖 Futures
 
 - Startup
 
@@ -25,7 +25,8 @@
 
 - Grab Telegram
 
-                                                    ⬇️ Setup 
+
+                                                       ⬇️ Setup 
 - Install [Python](https://www.python.org/downloads/) 
 
 - First paste and save your webhook address instead of `WEBHOOK_HERE` in doomerism.py
